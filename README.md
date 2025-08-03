@@ -30,7 +30,13 @@ This project showcases a **Client-Specific Performance Dashboard** built using *
 ---
 
 ## 📊 Dashboard Preview
-![Client Campaign Dashboard](https://github.com/YourGitHubUsername/Client-Campaign-Dashboard/assets/YourScreenshotID.png)
+<img width="852" height="895" alt="Screenshot 2025-08-03 025750" src="https://github.com/user-attachments/assets/5c97117f-bd91-4999-b915-42f00b1ab318" />
+<img width="839" height="883" alt="Screenshot 2025-08-03 025812" src="https://github.com/user-attachments/assets/3d788ec7-cdea-41db-8c31-a514084b9c7a" />
+<img width="833" height="879" alt="Screenshot 2025-08-03 025907" src="https://github.com/user-attachments/assets/680eab63-543e-4812-bc3c-7f32b3b1b2d6" />
+<img width="835" height="902" alt="Screenshot 2025-08-03 025919" src="https://github.com/user-attachments/assets/c350b699-4951-4404-8b9b-1d5c98d9b988" />
+<img width="841" height="874" alt="Screenshot 2025-08-03 025933" src="https://github.com/user-attachments/assets/2663022e-2f62-4d0e-bfad-539b7c5ab77b" />
+<img width="822" height="893" alt="Screenshot 2025-08-03 025955" src="https://github.com/user-attachments/assets/1f93cf92-960d-4c7e-8afe-a89174e004bf" />
+
 
 ---
 
